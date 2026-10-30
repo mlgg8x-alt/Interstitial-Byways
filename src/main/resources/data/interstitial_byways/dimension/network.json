@@ -1,0 +1,7 @@
+{
+  "type": "interstitial_byways:network",
+  "generator": {
+    "type": "interstitial_byways:liminal",
+    "biome_source": { "type": "minecraft:fixed", "biome": "interstitial_byways:liminal" }
+  }
+}
